@@ -1,0 +1,37 @@
+# IDE
+/.project
+/.pydevproject
+.vscode/*
+*.swp
+*.swo
+
+# Build artifacts
+/dist/
+/build/
+output/
+*.egg-info/
+*.egg
+*.so
+*.pyd
+*.dll
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+
